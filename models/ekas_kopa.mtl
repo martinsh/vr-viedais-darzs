@@ -1,0 +1,14 @@
+# Blender MTL File: 'ViedaisDarzs5.blend'
+# Material Count: 1
+
+newmtl ekaskopa
+Ns 6.014621
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.115970 0.115970 0.115970
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump F:\\VR_Izstade\\Viedais darzs\\ekas_kopa_nrm.png
+map_Kd F:\\VR_Izstade\\Viedais darzs\\ekas_kopa_bake.png
